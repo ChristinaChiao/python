@@ -6,3 +6,13 @@ print(True)
 print(int(True))
 print(False)
 print(int(False))
+
+#int類別
+print(type(12))#類別
+print(bin(12))#二進制
+print(oct(12))#八進制
+print(hex(12))#十六進制
+print('12'*4)#12跑4次
+print(12*4)#相乘
+print(type('12'))#類別
+print(int('12')*4)#字串變數字
